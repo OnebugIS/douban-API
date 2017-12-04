@@ -1,4 +1,4 @@
 # -API
 豆瓣movie250API
 
-![image](douban -API / readImg /list.png)
+![image](https://github.com/OnebugIS/douban-API/blob/master/readImg/list.png)
